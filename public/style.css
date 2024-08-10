@@ -18,14 +18,14 @@ input{
     padding: 12px 20px;
     margin: 8px;
     border: none;
-    border-bottom: 2px solid #764776;
+    border-bottom: 2px solid  rgb(16, 107, 120);
 
 }
 
 input[type=submit]{
     font-family: Arial, Helvetica, sans-serif;
     width: 100%;
-    background-color: #764776;
+    background-color:  rgb(16, 107, 120);
     border:none;
     color: white;
     padding: 16px 32px;
